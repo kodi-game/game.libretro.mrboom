@@ -16,7 +16,7 @@
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Mr.Boom (Bomberman) v3.1</summary>
+		<summary lang="en">Mr.Boom (Bomberman) 3.1</summary>
 		<description>Mr.Boom is a freeware 8 players Bomberman clone.
 
 Supports up to 8 players and features like pushing bombs, remote controls and kangaroo riding...</description>
