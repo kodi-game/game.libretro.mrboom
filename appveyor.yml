@@ -18,7 +18,6 @@ environment:
 build_script:
   - cd ..
   - git clone --depth=1 https://github.com/xbmc/xbmc.git
-  - mklink /j xbmc\project\BuildDependencies\msys64 C:\msys64
   - cd %app_id%
   - mkdir build
   - cd build
