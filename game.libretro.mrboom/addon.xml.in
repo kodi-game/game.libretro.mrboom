@@ -11,11 +11,11 @@
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms></platforms>
 		<extensions></extensions>
-		<supports_vfs>true</supports_vfs>
-		<supports_standalone>true</supports_standalone>
+		<supports_vfs>false</supports_vfs>
+		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Mr.Boom (Bomberman) 4.4</summary>
+		<summary lang="en_GB">Mr.Boom (Bomberman)</summary>
 		<description lang="en_GB">Mr.Boom is a freeware 8 players Bomberman clone.
 
 Supports up to 8 players and features like pushing bombs, remote controls and kangaroo riding...</description>
