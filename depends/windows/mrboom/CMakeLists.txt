@@ -22,7 +22,6 @@ add_library(${PROJECT_NAME}_libretro SHARED
   libretro-common/compat/compat_strl.c
   libretro-common/encodings/encoding_utf.c
   libretro-common/file/file_path.c
-  libretro-common/file/retro_stat.c
   libretro-common/lists/string_list.c
   libretro-common/memmap/memalign.c
   libretro-common/streams/file_stream.c
