@@ -4,7 +4,7 @@ project(game.libretro.mrboom)
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 
 find_package(Kodi REQUIRED)
-find_package(libretro-mrboom REQUIRED)
+find_library(MRBOOM_LIB NAMES mrboom_libretro${CMAKE_SHARED_LIBRARY_SUFFIX} PATH_SUFFIXES libretro)
 
 set(MRBOOM_CUSTOM_BINARY ${MRBOOM_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
