@@ -31,4 +31,3 @@ msgstr ""
 msgctxt "#30003"
 msgid "Team mode"
 msgstr ""
-
