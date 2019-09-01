@@ -19,7 +19,7 @@
 		<description lang="en_GB">Mr.Boom is a freeware 8 players Bomberman clone.
 
 Supports up to 8 players and features like pushing bombs, remote controls and kangaroo riding...</description>
-		<license>MIT</license>
+		<license></license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.mrboom</source>
 		<assets>
