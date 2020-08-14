@@ -1,1 +1,1 @@
-mrboom https://github.com/libretro/mrboom-libretro/archive/a47e81ce1c4126a977780f6b0d797990161ddd20.zip
+mrboom https://github.com/libretro/mrboom-libretro/archive/1bd7a1ab2c72c8e748728dccb8bd64a3ba26ce29.zip
