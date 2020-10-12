@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mrboom"
 		name="Mr.Boom (Bomberman)"
-		version="4.9.0.114"
+		version="4.9.0.115"
 		provider-name="Remdy">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
