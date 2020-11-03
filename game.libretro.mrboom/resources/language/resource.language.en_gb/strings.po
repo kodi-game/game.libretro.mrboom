@@ -21,13 +21,17 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Drop bomb autofire"
+msgid "Aspect ratio"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Monsters"
+msgid "Drop bomb autofire"
 msgstr ""
 
 msgctxt "#30003"
+msgid "Monsters"
+msgstr ""
+
+msgctxt "#30004"
 msgid "Team mode"
 msgstr ""
