@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mrboom"
 		name="Mr.Boom (Bomberman)"
-		version="5.2.0.122"
+		version="5.2.0.123"
 		provider-name="Remdy">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -15,11 +15,11 @@
 		<supports_standalone>true</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Mr.Boom (Bomberman) 5.0</summary>
+		<summary lang="en_GB">Mr.Boom (Bomberman) 5.2</summary>
 		<description lang="en_GB">Mr.Boom is a freeware 8 players Bomberman clone.
 
 Supports up to 8 players and features like pushing bombs, remote controls and kangaroo riding...</description>
-		<license></license>
+		<license>MIT</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.mrboom</source>
 		<assets>
