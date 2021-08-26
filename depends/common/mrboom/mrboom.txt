@@ -1,1 +1,1 @@
-mrboom https://github.com/Javanaise/mrboom-libretro/archive/553075dcbdfede35f508480c0f9abba1709d13fb.tar.gz
+mrboom https://github.com/Javanaise/mrboom-libretro/releases/download/5.2/MrBoom-src-5.2.454d614.tar.gz
