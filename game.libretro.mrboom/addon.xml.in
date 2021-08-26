@@ -26,6 +26,6 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Mr.Boom (Bomberman) 5.2</summary>
-		<description lang="en_GB">Mr.Boom is a freeware 8 players Bomberman clone.Supports up to 8 players and features like pushing bombs, remote controls and kangaroo riding...</description>
+		<description lang="en_GB">Mr.Boom is a freeware 8-player Bomberman clone. It features pushing bombs, remote controls, kangaroo riding, and more.</description>
 	</extension>
 </addon>
