@@ -21,8 +21,6 @@ msgid "Mr.Boom (Bomberman) 5.2"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Mr.Boom is a freeware 8 players Bomberman clone.
-
-Supports up to 8 players and features like pushing bombs, remote controls and kangaroo riding..."
+msgid "Mr.Boom is a freeware 8 players Bomberman clone.Supports up to 8 players and features like pushing bombs, remote controls and kangaroo riding..."
 msgstr ""
 

@@ -16,6 +16,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
+msgctxt "Addon Summary"
+msgid "Mr.Boom (Bomberman) 5.2"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Mr.Boom is a freeware 8 players Bomberman clone.Supports up to 8 players and features like pushing bombs, remote controls and kangaroo riding..."
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""

@@ -17,6 +17,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.7.1\n"
 
+msgctxt "Addon Summary"
+msgid "Mr.Boom (Bomberman) 5.2"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Mr.Boom is a freeware 8 players Bomberman clone.Supports up to 8 players and features like pushing bombs, remote controls and kangaroo riding..."
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Ajustes"
