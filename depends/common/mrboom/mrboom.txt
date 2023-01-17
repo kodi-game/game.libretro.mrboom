@@ -1,1 +1,1 @@
-mrboom https://github.com/Javanaise/mrboom-libretro/archive/1bc0933b71051411404cdc092b14ade17efb2027.tar.gz
+mrboom https://github.com/kodi-game/mrboom-libretro/archive/1bc0933b71051411404cdc092b14ade17efb2027.tar.gz
