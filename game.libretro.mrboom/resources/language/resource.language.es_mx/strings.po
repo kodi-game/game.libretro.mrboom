@@ -30,25 +30,49 @@ msgid "Settings"
 msgstr "Ajustes"
 
 msgctxt "#30001"
-msgid "Aspect ratio"
-msgstr "Relación de aspecto"
+msgid "Team mode"
+msgstr ""
 
 msgctxt "#30002"
-msgid "Level select"
-msgstr "Selección de nivel"
+msgid "Monsters"
+msgstr ""
 
 msgctxt "#30003"
-msgid "Music volume"
-msgstr "Volumen de la música"
+msgid "Level select"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Monsters"
-msgstr "Monstruos"
+msgid "Aspect ratio"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Sfx volume"
-msgstr "Volumen de efectos"
+msgid "Music volume"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Team mode"
-msgstr "Modo en equipo"
+msgid "Sfx volume"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Aspect ratio"
+#~ msgstr "Relación de aspecto"
+
+#~ msgctxt "#30002"
+#~ msgid "Level select"
+#~ msgstr "Selección de nivel"
+
+#~ msgctxt "#30003"
+#~ msgid "Music volume"
+#~ msgstr "Volumen de la música"
+
+#~ msgctxt "#30004"
+#~ msgid "Monsters"
+#~ msgstr "Monstruos"
+
+#~ msgctxt "#30005"
+#~ msgid "Sfx volume"
+#~ msgstr "Volumen de efectos"
+
+#~ msgctxt "#30006"
+#~ msgid "Team mode"
+#~ msgstr "Modo en equipo"

@@ -30,25 +30,49 @@ msgid "Settings"
 msgstr "设置"
 
 msgctxt "#30001"
-msgid "Aspect ratio"
-msgstr "宽高比"
+msgid "Team mode"
+msgstr ""
 
 msgctxt "#30002"
-msgid "Level select"
-msgstr "级别选择"
+msgid "Monsters"
+msgstr ""
 
 msgctxt "#30003"
-msgid "Music volume"
-msgstr "音乐音量"
+msgid "Level select"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Monsters"
-msgstr "怪物"
+msgid "Aspect ratio"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Sfx volume"
-msgstr "Sfx 音量"
+msgid "Music volume"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Team mode"
-msgstr "团队模式"
+msgid "Sfx volume"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Aspect ratio"
+#~ msgstr "宽高比"
+
+#~ msgctxt "#30002"
+#~ msgid "Level select"
+#~ msgstr "级别选择"
+
+#~ msgctxt "#30003"
+#~ msgid "Music volume"
+#~ msgstr "音乐音量"
+
+#~ msgctxt "#30004"
+#~ msgid "Monsters"
+#~ msgstr "怪物"
+
+#~ msgctxt "#30005"
+#~ msgid "Sfx volume"
+#~ msgstr "Sfx 音量"
+
+#~ msgctxt "#30006"
+#~ msgid "Team mode"
+#~ msgstr "团队模式"
