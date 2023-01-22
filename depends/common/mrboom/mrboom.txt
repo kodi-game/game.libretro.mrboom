@@ -1,1 +1,1 @@
-mrboom https://github.com/kodi-game/mrboom-libretro/archive/b69cfbaa70b998cc08fd4875c28dc539c054ac1a.tar.gz
+mrboom https://github.com/kodi-game/mrboom-libretro/archive/787f7a09dad0e2fd3fea71517261ae34445e5c63.tar.gz
