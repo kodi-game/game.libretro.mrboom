@@ -13,14 +13,14 @@ MIT
 
 ### Icon
 
-![Icon](game.libretro.mrboom/resources/icon.png)
+![Mr.Boom (Bomberman) icon](game.libretro.mrboom/resources/icon.png)
 
 ### Fanart
 
-![Fanart](game.libretro.mrboom/resources/fanart.jpg)
+![Mr.Boom (Bomberman) fanart](game.libretro.mrboom/resources/fanart.jpg)
 
 ### Screenshots
 
-![Screenshot](game.libretro.mrboom/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.mrboom/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.mrboom/resources/screenshot-03.jpg)
+![Mr.Boom (Bomberman) screenshot](game.libretro.mrboom/resources/screenshot-01.jpg)
+![Mr.Boom (Bomberman) screenshot](game.libretro.mrboom/resources/screenshot-02.jpg)
+![Mr.Boom (Bomberman) screenshot](game.libretro.mrboom/resources/screenshot-03.jpg)
