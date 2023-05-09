@@ -26,6 +26,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="da_DK">Mr.Boom (Bomberman)</summary>
 		<summary lang="en_GB">Mr.Boom (Bomberman)</summary>
 		<summary lang="es_ES">Mr.Boom (Bomberman)</summary>
 		<description lang="da_DK">Mr.Boom er en freeware 8-spiller Bomberman klon. Den har bomber, fjernbetjeninger, kænguru-ridning og meget mere.</description>
