@@ -33,10 +33,6 @@ msgctxt "#30001"
 msgid "Team mode"
 msgstr "Teammodus"
 
-msgctxt "#30002"
-msgid "Monsters"
-msgstr "Monster"
-
 msgctxt "#30003"
 msgid "Level select"
 msgstr "Level"
@@ -52,3 +48,7 @@ msgstr "Musiklautstärke"
 msgctxt "#30006"
 msgid "Sfx volume"
 msgstr "Effektlaustärke"
+
+#~ msgctxt "#30002"
+#~ msgid "Monsters"
+#~ msgstr "Monster"

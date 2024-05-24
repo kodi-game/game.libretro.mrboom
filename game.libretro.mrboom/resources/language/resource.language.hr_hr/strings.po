@@ -32,10 +32,6 @@ msgctxt "#30001"
 msgid "Team mode"
 msgstr ""
 
-msgctxt "#30002"
-msgid "Monsters"
-msgstr ""
-
 msgctxt "#30003"
 msgid "Level select"
 msgstr ""

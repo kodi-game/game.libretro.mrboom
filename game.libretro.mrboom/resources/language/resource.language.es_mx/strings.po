@@ -33,10 +33,6 @@ msgctxt "#30001"
 msgid "Team mode"
 msgstr "Modo en equipo"
 
-msgctxt "#30002"
-msgid "Monsters"
-msgstr "Monstruos"
-
 msgctxt "#30003"
 msgid "Level select"
 msgstr "Selección de nivel"
@@ -52,6 +48,10 @@ msgstr "Volumen de la música"
 msgctxt "#30006"
 msgid "Sfx volume"
 msgstr "Volumen de efectos"
+
+#~ msgctxt "#30002"
+#~ msgid "Monsters"
+#~ msgstr "Monstruos"
 
 #~ msgctxt "#30001"
 #~ msgid "Aspect ratio"
