@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-mrboom (>= 5.3.0) | mrboom (>= 5.3.0)
+               libretro-mrboom (>= 5.5.0) | mrboom (>= 5.5.0)
 Standards-Version: 3.9.8
 Section: libs
 
