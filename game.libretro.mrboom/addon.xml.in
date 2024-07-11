@@ -36,6 +36,7 @@
 		<description lang="en_GB">Mr.Boom is a freeware 8-player Bomberman clone. It features pushing bombs, remote controls, kangaroo riding, and more.</description>
 		<description lang="es_ES">Mr.Boom es un clon gratuito de Bomberman para 8 jugadores. Entre sus funciones se encuentran empujar bombas, mandos a distancia, montar canguros y mucho más.</description>
 		<description lang="it_IT">Mr.Boom è un clone gratuito di Bomberman per 8 giocatori. Offre funzionalità come il trascinamento delle bombe, i comandi a distanza, la cavalcatura di canguri e altro ancora.</description>
+		<description lang="sl_SI">Mr.Boom je brezplačen klon Bombermana za 8 igralcev. Vsebuje potiskanje bomb, daljinsko upravljanje, jahanje kenguruja in drugo.</description>
 		<description lang="zh_CN">Mr.Boom 是一个自由软件的8玩家《炸弹人》游戏克隆。它以推炸弹、遥控、袋鼠骑行等为特色。</description>
 	</extension>
 </addon>
