@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Mr.Boom is a freeware 8-player Bomberman clone. It features pushing bombs, remote controls, kangaroo riding, and more."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Paramètres"
-
 msgctxt "#30001"
 msgid "Team mode"
 msgstr ""
@@ -48,3 +44,7 @@ msgstr ""
 msgctxt "#30006"
 msgid "Sfx volume"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Paramètres"
