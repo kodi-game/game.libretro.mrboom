@@ -27,6 +27,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="cs_CZ">Mr.Boom (Bomberman)</summary>
 		<summary lang="da_DK">Mr.Boom (Bomberman)</summary>
 		<summary lang="en_GB">Mr.Boom (Bomberman)</summary>
 		<summary lang="es_ES">Mr.Boom (Bomberman)</summary>
@@ -34,6 +35,7 @@
 		<summary lang="ru_RU">Mr.Boom (Bomberman)</summary>
 		<summary lang="sv_SE">Mr.Boom (Bomberman)</summary>
 		<summary lang="zh_CN">炸弹人</summary>
+		<description lang="cs_CZ">Mr.Boom je freewarový klon Bombermana pro osm hráčů. Obsahuje tlačení bomb, dálkové odpalování bomb, jízdu na klokanovi a další prvky.</description>
 		<description lang="da_DK">Mr.Boom er en freeware 8-spiller Bomberman klon. Den har bomber, fjernbetjeninger, kænguru-ridning og meget mere.</description>
 		<description lang="de_DE">Mr.Boom ist ein kostenloser Bomberman-Klon für 8 Spieler. Es bietet das Werfen von Bomben, Fernbedienungen, Känguru-Reiten und mehr.</description>
 		<description lang="en_GB">Mr.Boom is a freeware 8-player Bomberman clone. It features pushing bombs, remote controls, kangaroo riding, and more.</description>
