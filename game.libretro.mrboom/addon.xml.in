@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mrboom"
 		name="Mr.Boom (Bomberman)"
-		version="5.5.0.167"
+		version="5.5.0.168"
 		provider-name="Remdy">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -9,7 +9,7 @@
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms></platforms>
+		<platforms>Mr.Boom</platforms>
 		<extensions></extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>true</supports_standalone>
